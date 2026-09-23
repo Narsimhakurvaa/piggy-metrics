@@ -13,4 +13,6 @@ target/
 # Eclipse
 **/*.project
 **/*.classpath
-**/*.settings
+
+# VS Code
+.vscode/
